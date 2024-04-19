@@ -2,13 +2,8 @@
   --background-color: #000028;
   --background-image: url(../images/cover-image-dark.png);
   --text-color: #f1b2ce;
-  --font-family: 'IBM Plex Mono', monospace;
-  --font-size: 18px;
-  --line-height: 1.3;
-  --main-padding: 10px;
-  --display-icon: visibility;
-  --margin-menu: 65px;
-  --margin-title-decor: 55px;
+  --font-family: 'IBM Plex Mono', Helvetica, monospace;
+  --display-icon: visible;
   --menu-color: #ff0070;
   --page-title-color: #db00ff;
   --page-title-shadow-color: #ff0070;
